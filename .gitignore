@@ -1,1 +1,4 @@
-target/ .idea/ *.iml application.properties
+target/
+.idea/
+*.iml
+application.properties
